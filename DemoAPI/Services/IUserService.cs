@@ -5,10 +5,11 @@ using System.Linq;
 using System.Security.Claims;
 using System.Text;
 using Microsoft.Extensions.Options;
-using Microsoft.IdentityModel.Tokens;
+
 using DemoAPI.Entities;
 using DemoAPI.Helpers;
 using DemoAPI.Models;
+using Microsoft.IdentityModel.Tokens;
 
 namespace DemoAPI.Services
 {
